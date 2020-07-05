@@ -1,0 +1,16 @@
+PODS:
+  - KDDragAndDropCollectionViews (1.5.2)
+
+DEPENDENCIES:
+  - KDDragAndDropCollectionViews (~> 1.5.2)
+
+SPEC REPOS:
+  trunk:
+    - KDDragAndDropCollectionViews
+
+SPEC CHECKSUMS:
+  KDDragAndDropCollectionViews: 69a4a5c6a2d98852de35bd469b394defb1fc9f7b
+
+PODFILE CHECKSUM: e019443b4fc0dc9987af199011f86e42c705d7e2
+
+COCOAPODS: 1.8.3

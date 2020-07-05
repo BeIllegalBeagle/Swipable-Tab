@@ -1,0 +1,6 @@
+framework module Pods_swipe_tab_swipe_tabUITests {
+  umbrella header "Pods-swipe-tab-swipe-tabUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
